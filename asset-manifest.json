@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MyBasketOfFood/static/css/main.6b942fa8.css",
+    "main.js": "/MyBasketOfFood/static/js/main.d4f1b08e.js",
+    "static/media/sausageBun.jpeg": "/MyBasketOfFood/static/media/sausageBun.4d060916b97ec9ed8964.jpeg",
+    "static/media/pineappleBun.jpeg": "/MyBasketOfFood/static/media/pineappleBun.32c51cf2e3e2c6145892.jpeg",
+    "static/media/honeyBackground.jpeg": "/MyBasketOfFood/static/media/honeyBackground.79fd2b30a8bcc283381d.jpeg",
+    "static/media/mameeNoodles.jpeg": "/MyBasketOfFood/static/media/mameeNoodles.053bd97974466597c6d5.jpeg",
+    "static/media/redBeanPuddings.jpeg": "/MyBasketOfFood/static/media/redBeanPuddings.8da0467f224b24a27e9f.jpeg",
+    "static/media/siuMais.jpeg": "/MyBasketOfFood/static/media/siuMais.090b0605a2e558314e3f.jpeg",
+    "static/media/CantoneseEggTarts.jpeg": "/MyBasketOfFood/static/media/CantoneseEggTarts.b3edeaec4585a1529173.jpeg",
+    "static/media/eggWaffles.jpeg": "/MyBasketOfFood/static/media/eggWaffles.905aedefc3ea3ee658f2.jpeg",
+    "static/media/shrimpDumplings.jpeg": "/MyBasketOfFood/static/media/shrimpDumplings.6d287a7461699271f734.jpeg",
+    "static/media/sugar-coatedHaws.jpeg": "/MyBasketOfFood/static/media/sugar-coatedHaws.54e746fa3a9ec4c83d58.jpeg",
+    "static/media/m_ice_cream.jpeg": "/MyBasketOfFood/static/media/m_ice_cream.70ac6b4aa23165f624ca.jpeg",
+    "index.html": "/MyBasketOfFood/index.html",
+    "main.6b942fa8.css.map": "/MyBasketOfFood/static/css/main.6b942fa8.css.map",
+    "main.d4f1b08e.js.map": "/MyBasketOfFood/static/js/main.d4f1b08e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b942fa8.css",
+    "static/js/main.d4f1b08e.js"
+  ]
+}
