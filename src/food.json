@@ -1,0 +1,64 @@
+{
+    "food": [
+      {
+        "id": 1,
+        "name": "McDonald's Ice Cream",
+        "description": "Do you know how much is this costed when you were small? I still remember it costed 2.5 HKD back in the time when I was in kindergarten age. This twist cone from McDonald's is costing 6 HKD nowadays. I am not addicted to this over-sugary ice cream anymore.",
+        "imageURL": "p1"
+      },
+      {
+        "id": 2,
+        "name": "Sugar-coated Haws",
+        "description": "This has been a rare food that we mostly see them in Lunar New Year Fair Stalls (年宵). When I was small, I liked the sugar-coated layer but not the haw. Therefore, I used to eat the outer layer only. There is not many chances of eating sugar-coated haws when I grew up as I have not been to the Lunar New Year Fair Stalls with my family for many years, especially under the years of COVID.",
+        "imageURL": "p2"
+      },
+      {
+        "id": 3,
+        "name": "Egg Tarts",
+        "description": "There are mainly two types of egg tarts in Hong Kong. One is the flaky pastry crust egg tarts and one is short crust pastry. I used to obsess with the flaky ones but I find the short crust ones are the best. Especially the flavour of butter is extraordinarily compatible with the egg custard at the middle of the egg tarts. This was my afternoon snack when my mum picked me up from kindergarten.",
+        "imageURL": "p3"
+      },
+      {
+        "id": 4,
+        "name": "Siu Mai",
+        "description": "One of the must have dim sum in Chinese restaurants. Siu Mai and shrimp dumplings are the best dim sum in yum cha. It is now widely introduced to everywhere by the technology of frozen food. You might even have it as your breakfast.",
+        "imageURL": "p4"
+      },
+      {
+        "id": 5,
+        "name": "Egg Waffles",
+        "description": "Egg waffles was and still one of the best delights for my normal days. My favourite egg waffles is from Hung Hom Egg Waffles. It was 12 HKD and now it is 18 HKD. There are also having more flavours like chocolate egg waffles and macha egg waffles. But still, my all-time favourite is the original flavour.",
+        "imageURL": "p5"
+      },
+      {
+        "id": 6,
+        "name": "Red Bean Pudding",
+        "description": "Back in the times when I was a sweet-tooth, I did not like red bean pudding as it is not sweet enough. Now I appreciate it as it is not as sweet as other dessert. There were many hawkers selling red bean puddings in my neighbourhood. Now it is rare to see them.",
+        "imageURL": "p6"
+      },
+      {
+        "id": 7,
+        "name": "Mamee Noodles",
+        "description": "The snack was very popular when I was in primary school. It comes with the instant noodles and the seasoning pack. The news about the founder of Mamee Noodles passing away was sad. This invention of snack brought a lot of joy to my childhood. Even though I haven't had it since secondary school, I still remember the time sharing this snack in primary school years.",
+        "imageURL": "p7"
+      },
+      {
+        "id": 8,
+        "name": "Sausage Buns",
+        "description": "It is one of the most common food for primary school picnic. There are some memes making fun of this 'culture' that some children may just put the sausage buns into their school bag for a very long time till it is smashed. The sweetness of the bread and the sausage matches so well and I would still buy them as a snack or breakfast.",
+        "imageURL": "p8"
+      },
+      {
+        "id": 9,
+        "name": "Pineapple Buns",
+        "description": "It is always the cheapest type of bread of a bakery. Even though, I still enjoy having it when I was small and even now. I love another version which is putting a slice of butter inside the bun. There is always charisma of the sugar crust coating on the pineapple bun.",
+        "imageURL": "p9"
+      },
+      {
+        "id": 10,
+        "name": "Shrimp Dumplings",
+        "description": "This was and still my personal favourite of all time. It has been always a special (特點) in Chinese restaurants. I still enjoy eating shrimp dumplings and it is a must order for me when going to yum cha.",
+        "imageURL": "p10"
+      }
+    ]
+  }
